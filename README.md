@@ -85,4 +85,4 @@ HTTP-статус коды: что означают и когда возвращ
 | 500  | Internal Server Error   | Неожиданная ошибка на сервере (баг, падение БД)                                 |
 | 502/503 | Bad Gateway / Service Unavailable | Сервер недоступен, перегружен или на техобслуживании                      |
 
-<img width="468" height="713" alt="image" src="https://github.com/user-attachments/assets/54fcaf73-e68e-419a-8a87-b8cbfdc75202" />
+
